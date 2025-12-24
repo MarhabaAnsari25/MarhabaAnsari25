@@ -185,7 +185,7 @@ diff
 
 ## 🌟 Fun Facts
 
-```javascript
+javascript
 const funFacts = {
   codingStyle: "Learning by doing",
   favoriteTimeToCode: "When inspiration strikes",
@@ -195,7 +195,6 @@ const funFacts = {
   techHero: "AI Pioneers & Innovators",
   mantra: "Today's learner, tomorrow's innovator"
 };
-```
 
 
 ## 💪 Growth Mindset
