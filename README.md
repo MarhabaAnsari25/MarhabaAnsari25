@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-javascript
+```javascript
 const marhaba = {
   location: "Karachi, Pakistan 🇵🇰",
   education: {
@@ -25,7 +25,7 @@ const marhaba = {
   lifeMotto: "I am not afraid of the darkness; Real death is preferable to a life without living",
   status: "🚀 Learning, Growing, Building"
 };
-
+```
 
 ## 🎯 My Journey
 
